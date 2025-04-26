@@ -1,0 +1,10 @@
+h2{
+    text-align: center;
+    padding: 2% 0;
+}
+section:nth-child(odd){
+    background-color: dimgrey ;
+}
+blockquote{
+    margin: 1% 15%;
+}
